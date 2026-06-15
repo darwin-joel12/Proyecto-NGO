@@ -104,9 +104,12 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+<<<<<<< HEAD
 
 # Ignorar ejecutable multijugador local
    /[Cc]ompilacion/
    /[Cc]ompilación/
    *.exe
    *.dll
+=======
+>>>>>>> 19676409dd5085eabd8ed163614afeac7c4bd4c2
